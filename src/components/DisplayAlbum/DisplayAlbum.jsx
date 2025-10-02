@@ -3,7 +3,7 @@ import { albumsData, assets, songsData } from '../../assets/assets'
 import { useParams } from 'react-router-dom'
 import { PlayerContext } from '../../context/PlayerContext';
 import DisplayNav from '../DisplayNav/DisplayNav';
-// DisplayAlbum
+
 const DisplayAlbum = () => {
 
     const { id } = useParams();
