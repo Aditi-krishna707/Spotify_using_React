@@ -1,7 +1,7 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom';
 import { assets } from '../../assets/assets';
-
+// navbar
 const DisplayNav = () => {
 
     const navigate = useNavigate();
