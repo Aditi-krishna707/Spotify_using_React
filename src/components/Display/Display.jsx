@@ -3,7 +3,7 @@ import DisplayHome from '../DisplayHome/DisplayHome'
 import { Route, Routes, useLocation } from 'react-router-dom'
 import DisplayAlbum from '../DisplayAlbum/DisplayAlbum'
 import { albumsData } from '../../assets/assets'
-// Display
+
 const Display = () => {
 
   const displayRef = useRef();
