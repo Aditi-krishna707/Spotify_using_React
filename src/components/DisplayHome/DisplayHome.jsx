@@ -3,7 +3,7 @@ import { albumsData, songsData } from '../../assets/assets'
 import AlbumItem from '../AlbumItem/AlbumItem'
 import SongItem from '../SongItem/SongItem'
 import DisplayNav from '../DisplayNav/DisplayNav'
-// HOme
+
 const DisplayHome = () => {
 
     return (
